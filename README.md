@@ -158,6 +158,6 @@ Frontend deployed to **Vercel**.
 - **Pitch deck**: https://drive.google.com/file/d/10Mqe8zCv9ZhyaYeFCeqlf1jcy-RTAYwi/view 
 - **Twitter**: [@prezopt](https://twitter.com/prezopt)  
 - **Discord**: [Join](https://discord.gg/prezopt)  
-- **GitHub**: https://github.com/prezopt  
+- **GitHub**: [View](https://github.com/predzopt)
 
 *Autonomous yield. Community owned. Built for BlockDAG.*
