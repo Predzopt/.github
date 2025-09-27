@@ -40,7 +40,7 @@ Core Prezopt protocol contracts deployed on BlockDAG.
 
 Built with Foundry. Fully tested and verified.
 
-[GitHub](https://github.com/prezopt/prezopt-contracts)
+[GitHub](https://github.com/predzopt/prezopt-contracts)
 
 ---
 
@@ -58,7 +58,7 @@ Simulated yield protocols and tokens for MVP testing on BlockDAG testnet.
 
 All strategies implement the `IStrategy` interface and are fully compatible with core contracts.
 
-[GitHub](https://github.com/prezopt/prezopt-simulations)
+[GitHub](https://github.com/predzopt/prezopt-simulations)
 
 ---
 
@@ -89,7 +89,7 @@ Off-chain keeper bot that executes profitable rebalances.
 
 Built with Python, Web3.py, and requests.
 
-[GitHub](https://github.com/prezopt/prezopt-keeper)
+[GitHub](https://github.com/predzopt/prezopt-keeper)
 
 ---
 
@@ -102,7 +102,7 @@ The Graph subgraph that indexes all on-chain events.
 - Provides real-time GraphQL API for frontend and ML service
 - Deployed to The Graph Studio for BlockDAG
 
-[GitHub](https://github.com/prezopt/prezopt-subgraph)
+[GitHub](https://github.com/predzopt/prezopt-subgraph)
 
 ---
 
@@ -118,7 +118,7 @@ User interface for Prezopt Protocol.
 
 Built with Next.js, wagmi, and RainbowKit. Deployed to Vercel.
 
-[GitHub](https://github.com/prezopt/prezopt-frontend)
+[GitHub](https://github.com/predzopt/prezopt-frontend)
 
 ---
 
