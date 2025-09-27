@@ -155,7 +155,7 @@ Frontend deployed to **Vercel**.
 
 - **Website**: https://prezopt-dapps.vercel.app/
 - **2 minutes video**: https://drive.google.com/file/d/1PqBta5U83Xcitd2YiIP1Xz3ygn58ESu3/view?usp=sharing
--**Pitch deck**: https://drive.google.com/file/d/1PqBta5U83Xcitd2YiIP1Xz3ygn58ESu3/view  
+- **Pitch deck**: https://drive.google.com/file/d/10Mqe8zCv9ZhyaYeFCeqlf1jcy-RTAYwi/view 
 - **Twitter**: [@prezopt](https://twitter.com/prezopt)  
 - **Discord**: [Join](https://discord.gg/prezopt)  
 - **GitHub**: https://github.com/prezopt  
